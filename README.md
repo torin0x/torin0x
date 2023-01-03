@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello I'm torin0x!</h1>
-<p align="center">My name is Laurin, I'm a 18 years old student that likes athletics</p>
+<p align="center">My name is Laurin, I'm a  student that likes to do sports and coding</p>
 
 <hr>
 
